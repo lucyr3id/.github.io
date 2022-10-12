@@ -21,3 +21,7 @@ p.thicker {
 }
         h1 { color: mediumseagreen; }
         h3 { color: mediumseagreen; }
+
+h1 {
+  text-shadow: 2px 2px #FF0000;
+}
